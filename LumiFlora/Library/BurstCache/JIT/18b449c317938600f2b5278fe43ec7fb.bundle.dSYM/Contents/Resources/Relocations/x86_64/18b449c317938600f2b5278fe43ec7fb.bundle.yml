@@ -1,9 +1,0 @@
----
-triple:          'x86_64-apple-darwin'
-binary-path:     '/Users/kathleena/LumiFlora/Temp/Burst/burst-aotse4f05ui.6sc/18b449c317938600f2b5278fe43ec7fb.bundle'
-relocations:
-  - { offset: 0x1E, size: 0x8, addend: 0x0, symName: '_Unity.Burst.Intrinsics.X86.DoSetCSRTrampoline(int bits) -> void_aa37bc001693caef87ec9e769d2b4653 from Unity.Burst, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null', symObjAddr: 0x30, symBinAddr: 0x350, symSize: 0xE }
-  - { offset: 0x37, size: 0x8, addend: 0x0, symName: '_Unity.Burst.Intrinsics.X86.DoSetCSRTrampoline(int bits) -> void_aa37bc001693caef87ec9e769d2b4653 from Unity.Burst, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null', symObjAddr: 0x30, symBinAddr: 0x350, symSize: 0xE }
-  - { offset: 0x8E, size: 0x8, addend: 0x0, symName: '_Unity.Burst.Intrinsics.X86.DoGetCSRTrampoline() -> int_aa37bc001693caef87ec9e769d2b4653 from Unity.Burst, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null', symObjAddr: 0x30, symBinAddr: 0x390, symSize: 0xE }
-  - { offset: 0xA7, size: 0x8, addend: 0x0, symName: '_Unity.Burst.Intrinsics.X86.DoGetCSRTrampoline() -> int_aa37bc001693caef87ec9e769d2b4653 from Unity.Burst, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null', symObjAddr: 0x30, symBinAddr: 0x390, symSize: 0xE }
-...
