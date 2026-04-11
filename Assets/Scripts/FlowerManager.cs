@@ -5,7 +5,7 @@ public class FlowerManager : MonoBehaviour
 {
     [Header("Player / Distance Settings")]
     public Transform playerCamera;       // assign your camera or player object
-    public float triggerDistance = 3f;   // distance to bloom
+    public float triggerDistance = 2f;   // distance to bloom
     public float closeBuffer = 1f;       // extra distance to prevent flicker
 
     [Header("Light Settings")]
